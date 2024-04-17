@@ -1,0 +1,36 @@
+ h1{
+
+    font-weight:bold;
+    background-image: url("/Users/prajwalgowdakr/Documents/GitHub/Full-Stack/project_css/pattern.jpeg");
+    font-family:helvetica;;
+    font-size: 100px;
+    color:khaki;
+    text-align: center;
+}
+.img1 h3{
+    font-family:helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumaquamarine;
+
+}
+.img2 h3{
+    font-family:helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+
+}
+.img3 h3{
+    font-family:helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+
+}
+strong{
+    color:blue;
+}
